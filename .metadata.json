@@ -2,5 +2,11 @@
   {
     "package": "parmigene",
     "oncran": true
+  },
+  {
+    "package": "graphite"
+  },
+  {
+    "package": "spatialDE"
   }
 ]
