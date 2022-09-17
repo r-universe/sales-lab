@@ -13,8 +13,3 @@
 	url = https://github.com/sales-lab/graphite
 	shallow = true
 	registered = true
-[submodule "spatialDE"]
-	path = spatialDE
-	url = https://github.com/sales-lab/spatialde
-	shallow = true
-	registered = true
