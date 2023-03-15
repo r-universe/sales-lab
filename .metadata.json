@@ -4,9 +4,9 @@
     "oncran": true
   },
   {
-    "package": "graphite"
+    "package": "spatialDE"
   },
   {
-    "package": "spatialDE"
+    "package": "graphite"
   }
 ]
