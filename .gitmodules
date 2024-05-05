@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "graphite"]
-	path = graphite
-	url = https://github.com/sales-lab/graphite
 [submodule "parmigene"]
 	path = parmigene
 	url = https://github.com/sales-lab/parmigene
-[submodule "spatialDE"]
-	path = spatialDE
-	url = https://github.com/sales-lab/spatialde
